@@ -1,5 +1,8 @@
 {
   "name": "askbro",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc"
+  },
   "dependencies": {
     "express": "^4.18.2"
   },
